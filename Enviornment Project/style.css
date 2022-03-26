@@ -1,0 +1,12 @@
+.note{
+margin: 10px;
+border: solid 5px red;
+}
+#cow.note {
+  border: solid 5px green;
+}
+#RBT
+{
+  margin: 10px;
+  border: solid 5px yellow;
+}
